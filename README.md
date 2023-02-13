@@ -8,3 +8,5 @@
     <summary><h3 style="display: inline-block;">All projects I made in the <a href="https://www.freecodecamp.org/learn/machine-learning-with-python/">Free Code Camp Machine Learning With Python</a>.</h3></summary>
   </ul>
 </div>
+
+Feel free to read through all and leave a star 💗⭐
